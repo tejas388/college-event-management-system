@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+config.local.php
+*.log
+uploads/
+public/uploads/
+.vscode/
+.idea/
+*.swp
+*.swo
